@@ -18,7 +18,7 @@ public class HomeController : Controller
         return View();
     }
 
-    public string getAllUsers([FromQuery] string param){
+    public string GetAllUsers([FromQuery] string param){
 
         return "HELLOOOOO";
     }
