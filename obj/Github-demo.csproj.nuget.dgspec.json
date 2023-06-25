@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\personal projects\\Github-demo\\Github-demo.csproj": {}
+    "D:\\Projects\\personal projects\\github-demo\\Github-demo.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\personal projects\\Github-demo\\Github-demo.csproj": {
+    "D:\\Projects\\personal projects\\github-demo\\Github-demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\personal projects\\Github-demo\\Github-demo.csproj",
+        "projectUniqueName": "D:\\Projects\\personal projects\\github-demo\\Github-demo.csproj",
         "projectName": "Github-demo",
-        "projectPath": "D:\\Projects\\personal projects\\Github-demo\\Github-demo.csproj",
+        "projectPath": "D:\\Projects\\personal projects\\github-demo\\Github-demo.csproj",
         "packagesPath": "C:\\Users\\Bhavya Hingorani\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\personal projects\\Github-demo\\obj\\",
+        "outputPath": "D:\\Projects\\personal projects\\github-demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
