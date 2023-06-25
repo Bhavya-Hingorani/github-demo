@@ -18,6 +18,11 @@ public class HomeController : Controller
         return View();
     }
 
+    public string GetAllUsers([FromQuery] string param){
+
+        return "HELLOOOOO";
+    }
+
     public IActionResult Privacy()
     {
         return View();
